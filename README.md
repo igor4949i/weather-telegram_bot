@@ -4,7 +4,7 @@ A simple Telegram bot that provides up-to-date weather information for your loca
 
 Features:
 
-Get current weather conditions instantly.
-Location-based updates for accuracy.
-Easy to use with a clean interface.
-Stay informed about the weather wherever you are!
+* Get current weather conditions instantly.
+* Location-based updates for accuracy.
+* Easy to use with a clean interface.
+* Stay informed about the weather wherever you are!
